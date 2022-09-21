@@ -3,3 +3,23 @@
   margin: 0px;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
+
+header {
+  width: 100%;
+  background-color: rgba(108, 0, 248, 0.7);
+  padding: 10px;
+  font-weight: bolder;
+  color: #fff;
+}
+
+footer {
+  width: 100%;
+  background-color: rgba(108, 0, 248, 0.7);
+  padding: 10px;
+  font-weight: lighter;
+  color: #fff;
+}
+
+#content {
+  padding: 15px;
+}
